@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hitbhai023
+- 👋 Hi, I’m Røhït
 - 👀 I’m interested in java program 
 - 🌱 I’m currently learning c language 
 - 💞️ I’m looking to collaborate on ...
