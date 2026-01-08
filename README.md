@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Røhït
-- 👀 I’m interested in java program 
-- 🌱 I’m currently learning c language 
-- 📫 How to reach me rohitmusic47@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi 👋 I'm Rohit prasad Sharma
 
-<!---
-Hitbhai023/Hitbhai023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MCA 4th Semester Student  
+💻 Learning Web Development & Data Structures  
+🌱 Currently learning PHP, MySQL, WordPress  
+
+### Skills
+- C, C++
+- Data Structures
+- PHP & MySQL
+- HTML, CSS
+
+📫 Email: hitbhai009@mail@gmail.com
