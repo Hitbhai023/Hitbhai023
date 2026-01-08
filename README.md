@@ -10,4 +10,4 @@
 - PHP & MySQL
 - HTML, CSS
 
-📫 Email: hitbhai009@mail@gmail.com
+📫 Email: hitbhai009@gmail.com
